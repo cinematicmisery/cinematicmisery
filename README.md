@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/df85fca8-007a-4a1b-82df-505142ed00d3)
+![cm](https://github.com/user-attachments/assets/61aa2606-4b5c-4c3b-b444-28cfe0b75d0b)
 
 # **CINEMATICMISERY**  
 > *Where code meets cinema.*
